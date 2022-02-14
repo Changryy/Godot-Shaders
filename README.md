@@ -1,2 +1,2 @@
 # Godot-Shaders
-Shaderlibrary for godot
+A collection of shaders I've made for Godot.
